@@ -36,6 +36,11 @@
   * [面向信仰编程](https://draveness.me/)
   * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
   * [Lea Verou](https://lea.verou.me/)
+* 参考式学习 F12专用！！
+  * [Awwwards](https://www.awwwards.com/)
+  * [HTML5 UP](https://html5up.net/)
+  * [CSS-Tricks](https://css-tricks.com/)
+  * [codepen.io](https://codepen.io/)
 
 * 电子书下载
   * [英语原版电子书](https://salttiger.com/)
