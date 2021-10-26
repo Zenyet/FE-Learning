@@ -13,7 +13,7 @@
   * [W3C](https://www.w3.org/TR/) 找的概念图挺好:)
   * [菜鸟教程 ](https://www.runoob.com/)
   * [w3school 在线教程](https://www.w3school.com.cn/)
-
+  * [教程 - HTML5 Rocks](https://www.html5rocks.com/zh/tutorials/)
 * 工具类
   
   * [Regulex](https://jex.im/regulex/#!flags=&re=^(a|b)*%3F%24) 正则表达式可视化
@@ -27,12 +27,10 @@
   * [adobe颜色轮盘](https://color.adobe.com/zh/create/color-wheel)
   * [canva 颜色轮盘](https://www.canva.com/colors/color-wheel/) 
   * [shields.io](https://shields.io/) 动态数据牌子，GitHub项目的readme 文件开头的牌子
-
 * 图标
   
   * [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/) 
   * [Font Awesome](https://fontawesome.com/)
-
 * 查问题
   
   * [Stack Overflow](https://stackoverflow.com/) 十分推荐的一个网站，几乎涵盖所有问题
@@ -44,36 +42,33 @@
   * [知乎](https://www.zhihu.com/)
   * [Google](https://www.google.com) 无敌
   * [百度](https://www.baidu.com) 差不多
-
 * 博客
   
   * [Sessionstack ](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) Alexander Zlatkov
   * [面向信仰编程](https://draveness.me/)
   * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
   * [Lea Verou](https://lea.verou.me/)
-
+  * [顾轶灵](https://justineo.github.io/slideshows/)
+  * [W3cplus](https://www.w3cplus.com/)
 * 参考式学习 F12专用！！
   
   * [Awwwards](https://www.awwwards.com/)
   * [HTML5 UP](https://html5up.net/)
   * [CSS-Tricks](https://css-tricks.com/)
   * [codepen.io](https://codepen.io/)
-
 * 电子书下载
   
   * [英语原版电子书](https://salttiger.com/)
-
 * git学习
-  
+
   * [可视化动画学习git](https://learngitbranching.js.org/)
-  
   * [Git - Book](https://git-scm.com/book/zh/v2) 官方推荐书，《Pro Git》
-  
   * [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-  
   * [Dangit, Git!?!](https://dangitgit.com/zh) git犯错时请看下！
-  
   * [github flow](https://guides.github.com/introduction/flow/)
+* 操作系统
+  * [操作系统(RISC-V) - 清华大学 - 学堂在线 (xuetangx.com)](https://www.xuetangx.com/course/thu08091002729/7754727?channel=i.area.learn_title)
+  * [操作系统 - 清华大学 - 学堂在线 (xuetangx.com)](https://www.xuetangx.com/course/THU08091000267/7753473?channel=i.area.learn_title)
 
 ### 书籍
 
